@@ -1,3 +1,7 @@
+## 3.6.0 - 2021-11-08
+
+* 🔼 Updated ICantBelieveItsNotValetudo to latest release `2021.11.0`
+
 ## 3.5.0 - 2021-10-31
 
 * 🔼 Updated ICantBelieveItsNotValetudo to latest release `2021.8.0`
